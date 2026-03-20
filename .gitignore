@@ -1,0 +1,19 @@
+# Node modules
+node_modules/
+
+# Expo / React Native
+.expo/
+.expo-shared/
+*.log
+
+# Environment variables
+.env
+
+# iOS / Android build files
+ios/build/
+android/build/
+*.keystore
+
+# macOS / Windows
+.DS_Store
+Thumbs.db
